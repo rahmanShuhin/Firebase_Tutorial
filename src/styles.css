@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom, violet, blue);
+  min-height: 100vh;
+}
+.card {
+  background: white;
+  height: auto;
+  width: 500px;
+  border: 2px solid gray;
+}
+h1 {
+  font-weight: 900;
+}
+input {
+  padding: 2% 5%;
+  width: 50%;
+  background: lightgrey;
+  color: black;
+  border: 0px;
+  margin-bottom: 4%;
+}
+button {
+  border: 0px;
+  padding: 3% 10%;
+  background: darkorchid;
+  color: white;
+  cursor: pointer;
+  margin-bottom: 5%;
+}
